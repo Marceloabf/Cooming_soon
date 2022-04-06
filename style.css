@@ -51,7 +51,11 @@
   }
   main{
       display: flex;
-      margin-top: 100px;
+      align-items: center;
+      height: 85vh;
+      width: 100vw;
+      justify-content: center;
+      margin-bottom: 100px;
   }
 .dia{
  display: inline-block;
